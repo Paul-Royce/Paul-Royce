@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Paul-Royce
+- 👋 Hi, I’m @Paul
 - 👀 I’m interested in Full Stack development, but for now i'm focusing in Frontend
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me? email to: paulamponsah80@gmail.com 
